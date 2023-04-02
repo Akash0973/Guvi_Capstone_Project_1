@@ -5,6 +5,9 @@ name = "pypi"
 
 [packages]
 snscrape = "*"
+pymongo = "*"
+datetime = "*"
+streamlit = "*"
 
 [dev-packages]
 
