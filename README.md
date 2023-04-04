@@ -1,10 +1,10 @@
 # Guvi_Capstone_Project_1
 
-## **_Problem Statement:
+## **_Problem Statement:_**
 
 Today, data is scattered everywhere in the world. Especially in social media, there may be a big quantity of data on Facebook, Instagram, Youtube, Twitter, etc. This consists of pictures and films on Youtube and Instagram as compared to Facebook and Twitter. To get the real facts on Twitter, you want to scrape the data from Twitter. You Need to Scrape the data like (date, id, url, tweet content, user,reply count, retweet count,language, source, like count etc) from twitter.
 
-## **_Approach:
+## **_Approach:_**
 
 By using the “snscrape” Library, Scrape the twitter data from Twitter Reference
 Create a dataframe with date, id, url, tweet content, user,reply count, retweet count,language, source, like count.
@@ -20,11 +20,11 @@ example:
 
 Create a GUI using streamlit that should contain the feature to enter the keyword or Hashtag to be searched, select the date range and limit the tweet count need to be scraped. After scraping, the data needs to be displayed in the page and need a button to upload the data into Database and download the data into csv and json format.
 
-## **_Results:
+## **_Results:_**
 
 You have to build a solution that should be able to scrape the twitter data and store that in the database and allow the user to download the data with multiple data formats.
 
-## **_Workflow:
+## **_Workflow:_**
 
 1. The code first inputs the Hashtag/Keyword from the user along with Date search range and limit of number of data.
 2. The code then scrapes the data from Twitter and stores them in an array.
@@ -36,7 +36,7 @@ You have to build a solution that should be able to scrape the twitter data and 
 8. Once the User clicks on a previously uploaded database, they are shown the data in a DataFrame format.
 9. Additionally, the User is also presented with an option to download the old data in CSV and JSON format.
 
-## **_Consepts involved:
+## **_Consepts involved:_**
 
 1. Python Scripting
 2. MongoDB
@@ -44,9 +44,9 @@ You have to build a solution that should be able to scrape the twitter data and 
 4. Snscrape
 
 
-## **_HOW TO RUN TWITTER SCRAPER IN YOUR MACHINE:
+## **_HOW TO RUN TWITTER SCRAPER IN YOUR MACHINE:_**
 
-**_Pre-requisites: MongoDB must be installed in the system.
+**_Pre-requisites: MongoDB must be installed in the system._**
 
 Open cmd:
 
