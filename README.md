@@ -23,3 +23,26 @@ Create a GUI using streamlit that should contain the feature to enter the keywor
 ## **_Results:_**
 
 You have to build a solution that should be able to scrape the twitter data and store that in the database and allow the user to download the data with multiple data formats.
+
+
+
+
+
+
+## **_HOW TO RUN TWITTER SCRAPER IN YOUR MACHINE:_**
+open cmd:
+1. > C:\Users\mypc> pip install virtualenv 
+2. > C:\Users\mypc> virtualenv test_env
+3. > C:\Users\mypc> cd test_env
+4. > C:\Users\mypc\test_env> cd Scripts
+5. > C:\Users\mypc\test_env\Scripts>activate           # It will activate the virtual environment
+6. > (test_env)  C:\Users\mypc\> mkdir Scraper         # Create a folder named Scraper
+7. > (test_env)  C:\Users\mypc\> cd Scraper
+
+At this point, download the github files into the folder created by step 7.
+This folder is most likely located in Users>Username>test_env>Scripts>Scraper.
+You can search for this folder by typing "Scraper" in the "Search this PC" tab in "This PC".
+
+8. > (test_env)  C:\Users\mypc\Scraper> pip install -r requirement.txt              # it will install all the required modules in the environment
+9. > (test_env)  C:\Users\mypc\Scraper> streamlit run Twitter_scrapping_code.py     # Now run the app using streamlit
+10. > You can now view your Streamlit app in your browser with URL:http://localhost:8501
