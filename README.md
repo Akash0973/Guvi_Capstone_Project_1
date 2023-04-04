@@ -12,7 +12,7 @@ Store each collection of data into a document into Mongodb along with the hashta
 
 example:
 
-    ({“Scraped Word”            : “Elon Musk”,
+    ({“Scraped Word”           : “Elon Musk”,
 
      “Scraped Date”            : 15-02-2023,
      
