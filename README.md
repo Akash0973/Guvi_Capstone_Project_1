@@ -74,4 +74,6 @@ Below link contains a demo video explaining how to use the application:
 
 https://drive.google.com/file/d/1tc8SyN05eUXVnP-AXKvJLH2T1J9BkYPz/view?usp=sharing
 
-Lindedin link
+Lindedin link for demo video:
+
+https://www.linkedin.com/posts/akash-kumar-singh-37a820150_twitter-scrapper-using-snscrape-and-streamlit-activity-7049826402463809537-uYG7?utm_source=share&utm_medium=member_desktop
