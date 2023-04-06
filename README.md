@@ -44,26 +44,26 @@ You have to build a solution that should be able to scrape the twitter data and 
 4. Snscrape
 
 
-## **_HOW TO RUN TWITTER SCRAPER IN YOUR MACHINE:_**
+## **_HOW TO RUN TWITTER SCRAPER IN YOUR SYSTEM:_**
 
-**_Pre-requisites: MongoDB must be installed in the system._**
+**_Pre-requisites: Python and MongoDB must be installed in your system._**
 
 Open cmd:
 
-1. > C:\Users\mypc> pip install virtualenv 
-2. > C:\Users\mypc> virtualenv test_env
-3. > C:\Users\mypc> cd test_env
-4. > C:\Users\mypc\test_env> cd Scripts
-5. > C:\Users\mypc\test_env\Scripts>activate
-6. > (test_env)  C:\Users\mypc\> mkdir Scraper
-7. > (test_env)  C:\Users\mypc\> cd Scraper
+1. > (base) C:\Users\Usernme>pip install virtualenv 
+2. > (base) C:\Users\Usernme>virtualenv test_env
+3. > (base) C:\Users\Usernme>cd test_env
+4. > (base) C:\Users\Usernme\test_env>cd Scripts
+5. > (base) C:\Users\Usernme\test_env\Scripts>activate
+6. > (test_env) C:\Users\Usernme\test_env\Scripts>mkdir Scraper
+7. > (test_env) C:\Users\Usernme\test_env\Scripts>cd Scraper
 
 At this point, download the github files into the folder created by step 7.
 This folder is most likely located in Users>Username>test_env>Scripts>Scraper.
 You can search for this folder by typing "Scraper" in the "Search this PC" tab in "This PC".
 
-8. > (test_env)  C:\Users\mypc\Scraper> pip install -r requirement.txt
-9. > (test_env)  C:\Users\mypc\Scraper> streamlit run Twitter_scrapping_code.py
+8. > (test_env) C:\Users\Usernme\test_env\Scripts\Scraper>pip install -r requirement.txt
+9. > (test_env) C:\Users\Usernme\test_env\Scripts\Scraper>streamlit run Twitter_scrapping_code.py
 10. > You can now view your Streamlit app in your browser with URL : http://localhost:8501
 
 Below link contains a demo video explaining how to use the application:
