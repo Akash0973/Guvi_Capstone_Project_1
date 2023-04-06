@@ -67,11 +67,9 @@ You can search for this folder by typing "Scraper" in the "Search this PC" tab i
 10. > You can now view your Streamlit app in your browser with URL : http://localhost:8501
 
 Below link showcases how to start the twitter scrapper in your system:
-
-[<Video link>](https://www.veed.io/view/14e768d5-953b-4a71-a86c-edeb850c9a30?panel=share)
+https://www.veed.io/view/14e768d5-953b-4a71-a86c-edeb850c9a30?panel=share
 
 Below link contains a demo video explaining how to use the application:
-    
-[<Video link>](https://www.veed.io/view/81aaa377-cd3a-4e2f-af48-b45e9412a8d9?panel=share)
+https://www.veed.io/view/81aaa377-cd3a-4e2f-af48-b45e9412a8d9?panel=share
 
 <Lindedin link>
