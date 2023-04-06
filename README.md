@@ -66,5 +66,8 @@ You can search for this folder by typing "Scraper" in the "Search this PC" tab i
 9. > (test_env) C:\Users\Usernme\test_env\Scripts\Scraper>streamlit run Twitter_scrapping_code.py
 10. > You can now view your Streamlit app in your browser with URL : http://localhost:8501
 
+Below link showcases how to start the twitter scrapper in your system:
+https://www.veed.io/view/14e768d5-953b-4a71-a86c-edeb850c9a30?panel=share
+
 Below link contains a demo video explaining how to use the application:
 <insert_link>
