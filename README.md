@@ -36,7 +36,7 @@ You have to build a solution that should be able to scrape the twitter data and 
 8. Once the User clicks on a previously uploaded database, they are shown the data in a DataFrame format.
 9. Additionally, the User is also presented with an option to download the old data in CSV and JSON format.
 
-## **_Consepts involved:_**
+## **_Concepts involved:_**
 
 1. Python Scripting
 2. MongoDB
